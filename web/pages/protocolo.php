@@ -16,7 +16,7 @@ if (isset($_GET['q'])) {
 
 <?php } else { ?>
 
-    <div class="panel panel-default" style="margin: 0.4% 7.9%;padding:5%;">
+    <div class="panel panel-default" style="margin: 0.4% 7.9%;padding:5%;height:75%">
         <div class="panel-body">
 
             <form class="form-inline">
