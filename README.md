@@ -1,3 +1,7 @@
+Associação dos Municípios dos Campos Gerais
+
+Sistema para abertura de ordens de serviço para AMCG, o sistema foi descontinuado. Este projeto foi modificado por questões de segurança. Para solicitar o dump do database, entre em contato comigo no e-mail: dionmaicon@outlook.com
+
 Yii 2 Basic Project Template
 ============================
 
